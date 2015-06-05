@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	An empty repository will be created. If I don't do it there won't be any repositories.
+
+
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area has files that will be updated.
