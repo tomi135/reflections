@@ -25,3 +25,8 @@ How do the diagrams help you visualize the branch structure?
 	To visualize which commit belongs to wich branch.
 
 
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	Two branches will be merged.
+
