@@ -30,3 +30,9 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	Two branches will be merged.
 
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Merging manually is too much work
+
+
